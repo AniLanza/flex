@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(93, 71, 145);
+}
+
+h2{
+    font-size:larger;
+    display: flex;
+    align-content:flex-end;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px;
+    text-decoration-line: underline;
+    color:rgb(211, 193, 171);
+}
+
+.subtitules{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-content:flex-start;
+    justify-content: flex-start;
+    position: relative;
+    top:25px;
+}
+
+h3{
+    font-size: larger;
+    display: flex;
+    align-content: flex-end;
+    justify-content: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: normal;
+    position: relative;
+    color: rgb(201, 155, 100);
+}
+
+.h3{
+    color: black;
+}
+
+.primer-parrafo{
+    display: flex;
+    position: relative;
+    top: 20px;
+}
+
+.orden{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content:space-between;
+    align-items: space-between;
+    top:30px;
+}
+
+.number-1{
+    display:flexbox;
+    align-items: space-between;
+    justify-items: space-between;
+    position: relative;
+    border-bottom: 1px solid white;
+}
+
+.number-2{
+    display: flexbox;
+    align-items: space-between;
+    justify-items:space-between;
+    position: relative;
+    top: 30px;
+    border-bottom: 1px solid white;
+}
+
+.number-3{
+    display: flexbox;
+    align-items: space-between;
+    justify-items:space-between;
+    position: relative;
+    top: 60px;
+    border-bottom: 1px solid white;
+
+}
+
+.subtitules-3{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    align-content:flex-start;
+    justify-content: flex-start;
+    position: relative;
+    top:90px;
+}
+
+.primer-parrafo-3{
+    display: flex;
+    position: relative;
+    top: 90px;
+}
+
+.order-3{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content:space-between;
+    align-items: space-between;
+    top:110px;
+}
+
+.menu{
+    display: flex;
+    flex-direction:row;
+    position: relative;
+    justify-content: flex-end;
+    align-items:normal;
+    align-content: space-between;
+    top: 0px;
+
+}
+
+a{
+    margin: 0px 10px;
+    padding:2px;
+    text-decoration: none;
+    border: 2px solid rgb(65, 20, 20);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
